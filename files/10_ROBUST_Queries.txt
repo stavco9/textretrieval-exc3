@@ -1,10 +1,10 @@
-301	international organized crime
-302	poliomyelitis post polio
-303	hubble telescope achievements
-304	endangered species mammals
-305	dangerous vehicles
-306	african civilian deaths
-307	new hydroelectric projects
-308	implant dentistry
-309	rap crime
-310	radio waves brain cancer
+301	international organized crime in Colombia
+302	poliomyelitis post polio in Cuba
+303	hubble telescope achievements by NASA
+304	endangered species mammals breeding farm
+305	dangerous vehicles COMPANY-OWNED cars
+306	african civilian deaths in Algeria
+307	new hydroelectric projects Thailand China
+308	implant dentistry Queen Mary
+309	rap crime Judas Priest
+310	radio waves brain cancer electromagnetic radiation

@@ -30,7 +30,7 @@ for topic_id, topic in queries.items():
     results[topic_id] = [(hit.docid, i+1, hit.score) for i, hit in enumerate(hits)]
 
 # Now you can save the results to a file in the TREC format:
-output_file = f'./results/Dinit_qld.txt'
+output_file = f'./files/Best_Expansion_qld.txt'
 if not os.path.exists('./results'):
     os.makedirs('./results')
 sorted_results = dict(sorted(results.items()))
