@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> FBIS3-33671 </DOCNO>
+<HT>    "drnes020_a_94012" </HT>
+
+
+
+
+<HEADER>
+
+<AU>   FBIS-NES-94-020 </AU>
+
+Document Type:Daily Report 
+
+<DATE1>  31 Jan 1994 </DATE1>
+
+
+
+</HEADER>
+
+
+
+<F P=100> ARAB AFRICA </F>
+
+<F P=101> Algeria </F>
+
+<H3> <TI>   FIS Communique: 117 Killed From 9 to 25 Jan </TI></H3>
+
+<F P=102>  LD2801162194 Paris Radio France International in French 1230 
+
+GMT 28 Jan 94 </F>
+
+
+
+<F P=103> LD2801162194 </F>
+
+<F P=104>  Paris Radio France International </F>
+
+
+
+
+
+<TEXT>
+
+Language: <F P=105> French </F>
+
+Article Type:BFN 
+
+
+
+  [Text] The representatives of the [Algerian] Islamic 
+
+Salvation Front [FIS] in exile have issued a communique claiming 
+
+that, between 9 and 25 January, the Islamists [in Algeria] have 
+
+killed 117 people, both civilians and soldiers. The FIS 
+
+communique added that the movement was not claiming 
+
+responsibility for these killings, but that it was simply 
+
+publishing the figures to inform the public. 
+
+
+
+</TEXT>
+
+
+
+</DOC>
+
